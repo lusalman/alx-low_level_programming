@@ -4,7 +4,10 @@
 
 
 /**
- * main - Prints if the number is positive,negative or zero
+ * main - Entry
+ *
+ * Description : Prints if number is positive,negative or zero
+ *
  * Return : Always 0 (Success)
  */
 int main(void)
