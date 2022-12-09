@@ -4,7 +4,7 @@
 
 
 /**
- * main - Entry
+ * main - Entry point
  *
  * Description : Prints if number is positive,negative or zero
  *
