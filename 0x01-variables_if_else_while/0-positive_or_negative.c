@@ -4,8 +4,8 @@
 
 
 /**
- * main - prints if the number is positive,negative or 0
- * Return : Always (0)
+ * main - Prints if the number is positive,negative or zero
+ * Return : Always 0 (Success)
  */
 int main(void)
 {
